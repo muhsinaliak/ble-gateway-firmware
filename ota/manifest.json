@@ -1,0 +1,10 @@
+{
+  "version": "7.0.0",
+  "firmware_url": "",
+  "filesystem_url": "",
+  "firmware_size": 0,
+  "filesystem_size": 0,
+  "changelog": "Ilk surum",
+  "release_date": "2025-01-01",
+  "min_version": "6.0.0"
+}
