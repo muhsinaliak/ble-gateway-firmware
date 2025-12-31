@@ -1,10 +1,10 @@
 {
-  "version": "7.0.0",
-  "firmware_url": "",
-  "filesystem_url": "",
-  "firmware_size": 0,
-  "filesystem_size": 0,
-  "changelog": "Ilk surum",
-  "release_date": "2025-01-01",
+  "version": "7.1.0",
+  "firmware_url": "https://github.com/KULLANICI_ADIN/ble-gateway-firmware/releases/download/v7.1.0/firmware.bin",
+  "filesystem_url": "https://github.com/KULLANICI_ADIN/ble-gateway-firmware/releases/download/v7.1.0/littlefs.bin",
+  "firmware_size": 1234567,
+  "filesystem_size": 234567,
+  "changelog": "v7.1.0 Degisiklikler:\n- Yeni ozellik\n- Hata duzeltmesi",
+  "release_date": "2025-01-15",
   "min_version": "6.0.0"
 }
