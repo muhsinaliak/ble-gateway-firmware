@@ -1,10 +1,10 @@
 {
-  "version": "7.0.1",
-  "firmware_url": "https://github.com/muhsinaliak/ble-gateway-firmware/releases/download/v7.0.1/firmware.bin",
-  "filesystem_url": "https://github.com/muhsinaliak/ble-gateway-firmware/releases/download/v7.0.1/littlefs.bin",
-  "firmware_size": 1271456,
+  "version": "7.0.2",
+  "firmware_url": "https://github.com/muhsinaliak/ble-gateway-firmware/releases/download/v7.0.2/firmware.bin",
+  "filesystem_url": "https://github.com/muhsinaliak/ble-gateway-firmware/releases/download/v7.0.2/littlefs.bin",
+  "firmware_size": 1271664,
   "filesystem_size": 1441792,
-  "changelog": "v7.0.1 Degisiklikler:\nYeni Özellik: Fiziksel Fabrika Sıfırlama Butonu\nCihaza harici bir buton ile fabrika ayarlarına dönme özelliği eklendi. Web arayüzüne erişilemediğinde veya WiFi şifresi unutulduğunda kullanılabilir.\n\nÇalışma Mantığı\nGPIO 4'e bağlı butona basılı tutulur\n3 saniye sonra RGB LED turuncu yanıp sönmeye başlar (geri bildirim)\n10 saniye basılı tutulduğunda cihaz fabrika ayarlarına döner\nButon erken bırakılırsa işlem iptal edilir",
+  "changelog": "v7.0.2 Degisiklikler:\n- Hata duzeltmesi\nBakalım Çalışıyor mu?",
   "release_date": "2026-01-01",
   "min_version": "6.0.0"
 }
