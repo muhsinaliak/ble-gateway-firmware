@@ -1,10 +1,10 @@
 {
-  "version": "7.4.2",
-  "firmware_url": "https://github.com/muhsinaliak/ble-gateway-firmware/releases/download/v7.4.2/firmware.bin",
-  "filesystem_url": "https://github.com/muhsinaliak/ble-gateway-firmware/releases/download/v7.4.2/littlefs.bin",
-  "firmware_size": 1282704,
+  "version": "7.4.4",
+  "firmware_url": "https://github.com/muhsinaliak/ble-gateway-firmware/releases/download/v7.4.4/firmware.bin",
+  "filesystem_url": "https://github.com/muhsinaliak/ble-gateway-firmware/releases/download/v7.4.4/littlefs.bin",
+  "firmware_size": 1283520,
   "filesystem_size": 1441792,
-  "changelog": "v7.4.2 Degisiklikler:\nChaos Computer Club (CCC)",
+  "changelog": "v7.4.4 Degisiklikler:\nChaos Computer Club (CCC)",
   "release_date": "2026-01-02",
   "min_version": "6.0.0"
 }
