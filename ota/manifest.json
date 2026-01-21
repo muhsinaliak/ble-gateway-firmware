@@ -1,10 +1,10 @@
 {
-  "version": "1.2.0",
-  "firmware_url": "https://github.com/muhsinaliak/ble-gateway-firmware/releases/download/v1.2.0/firmware.bin",
-  "filesystem_url": "https://github.com/muhsinaliak/ble-gateway-firmware/releases/download/v1.2.0/littlefs.bin",
-  "firmware_size": 1160304,
-  "filesystem_size": 1572864,
-  "changelog": "v1.2.0 Degisiklikler:\n- Yeni ozellik\n- Hata duzeltmesi",
-  "release_date": "2026-01-12",
+  "version": "7.4.5",
+  "firmware_url": "https://github.com/muhsinaliak/ble-gateway-firmware/releases/download/v7.4.5/firmware.bin",
+  "filesystem_url": "https://github.com/muhsinaliak/ble-gateway-firmware/releases/download/v7.4.5/littlefs.bin",
+  "firmware_size": 1283744,
+  "filesystem_size": 3604480,
+  "changelog": "v7.4.5 Degisiklikler:\n- Yeni ozellikler eklendi.\n Boot tuşuna on saniye basılı tutunca fabrika ayarlarına geri dönme. \nGithub'dan güncelleme çekme.",
+  "release_date": "2026-01-21",
   "min_version": "6.0.0"
 }
